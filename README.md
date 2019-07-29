@@ -1,0 +1,2 @@
+# RealtimeQRCodeRealtimeScannerwithRectangle
+ Demo QR code
